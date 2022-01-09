@@ -88,3 +88,12 @@ body {
 .slider .row{
     align-items: center;
 }
+/****************** SECTION TITLE *****************/
+.section-title{
+  text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
